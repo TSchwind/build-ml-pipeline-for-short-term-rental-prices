@@ -570,3 +570,8 @@ you have trained your new model on the new data.
 [License](LICENSE.txt)
 
 ## Links
+### wandb project
+https://wandb.ai/tschwind/nyc_airbnb/overview
+
+### git repo
+https://github.com/TSchwind/build-ml-pipeline-for-short-term-rental-prices
